@@ -28,7 +28,7 @@ Este proyecto es el frontend para una clínica de bienestar integral, construido
 2. Clona este repositorio y entra en la carpeta:
    ```bash
    git clone <repo-url>
-   cd odonto-clinic-main
+   cd Clínica Armonía Vital Frontend
    ```
 3. Instala dependencias:
    ```bash
