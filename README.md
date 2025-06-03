@@ -21,7 +21,6 @@ Este proyecto es el frontend para una clínica de bienestar integral, construido
 - `/api/services` — Listado de servicios
 - `/api/contacts` — Enviar mensajes de contacto
 - `/api/blog` — Listado de posts y banners
-- `/api/map` — Obtener embed de Google Maps
 - `/api/appointments` — Reservar y listar citas (requiere autenticación)
 
 ## Primeros pasos para desarrollo
@@ -51,7 +50,6 @@ Este proyecto es el frontend para una clínica de bienestar integral, construido
 ## Recursos útiles
 - [Documentación de React](https://es.react.dev/)
 - [Documentación de Chakra UI](https://chakra-ui.com/)
-- [¿Qué es la arquitectura hexagonal? (Artículo)](https://apiumhub.com/es/tech-blog-barcelona/arquitectura-hexagonal/)
 
 ---
 
