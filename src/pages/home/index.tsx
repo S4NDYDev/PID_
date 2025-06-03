@@ -33,23 +33,7 @@ export function Home() {
       .catch(() => setError("No se pudieron cargar los servicios."))
       .finally(() => setLoading(false));
   }, []);
-{/*
-  useEffect(() => {
-    fetch("/api/map/embed")
-      .then((res) => {
-        if (!res.ok) throw new Error("No se pudo cargar el mapa");
-        return res.json();
-      })
-      .then((data) => {
-        // Extract src from the iframe string
-        const match = data.embed.match(/src=\"([^\"]+)\"/);
-        if (match && match[1]) {
-          setMapUrl(match[1]);
-        }
-      })
-      .finally(() => setMapLoading(false));
-  }, []);
-*/}
+
   return (
     <>
       <Helmet title="Home" />
