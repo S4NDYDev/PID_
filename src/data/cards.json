@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Tecnología de punta",
+    "content": "Utilizamos tecnología odontológica avanzada para garantizar tratamientos precisos y cómodos para ti.",
+    "icon": "/icon/Tecnology.png",
+    "boxShadow": "0 4px 6px rgba(255, 0, 0, 0.6)"
+  },
+  {
+    "title": "Calificación profesional",
+    "content": "Nuestro equipo está altamente calificado y en constante actualización para brindarte la mejor atención clínica.",
+    "icon": "/icon/Award.png",
+    "boxShadow": "0 4px 7px rgba(255, 255, 0, 0.6)"
+  },
+  {
+    "title": "Atención personalizada",
+    "content": "Cada paciente es único. Ofrecemos atención personalizada y cercana para tu bienestar integral.",
+    "icon": "/icon/Agendamento.svg",
+    "boxShadow": "0 4px 6px rgba(128, 0, 128, 0.6)"
+  }
+]

@@ -1,0 +1,6 @@
+@OdontoServer_HostAddress = http://localhost:5289
+
+GET {{OdontoServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
