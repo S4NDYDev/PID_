@@ -19,12 +19,12 @@ export function Footer() {
               <Box as={ReactLink} to={"/"}>
                 <Image
                   src="/svg/Logo.png"
-                  alt="Logo Odonto Clinic"
+                  alt="Logo Clínica Armonía Vital"
                   maxW={"13rem"}
                 />
               </Box>
               <Text fontSize={"sm"}>
-                Copyright &copy; {new Date().getFullYear()} Odonto Clinic
+                Copyright &copy; {new Date().getFullYear()} Clínica Armonía Vital
               </Text>
             </Stack>
             <Box display={"flex"} flexDirection={"row"} gap={40}>
