@@ -1,6 +1,6 @@
 # OdontoServer Backend
 
-Este proyecto es un backend para una clínica odontológica, implementado en ASP.NET Core con Entity Framework Core y PostgreSQL. Está diseñado usando la **Arquitectura Hexagonal (Ports & Adapters)** para separar la lógica de negocio del acceso a datos y la infraestructura.
+Este proyecto es un backend para una clínica de bienestar integral , implementado en ASP.NET Core con Entity Framework Core y PostgreSQL. Está diseñado usando la **Arquitectura Hexagonal (Ports & Adapters)** para separar la lógica de negocio del acceso a datos y la infraestructura.
 
 ---
 
@@ -90,4 +90,4 @@ En este proyecto:
 
 ---
 
-Desarrollado por [Sandy El 1 de Cuba](https://github.com/S4NDYDev)
+
